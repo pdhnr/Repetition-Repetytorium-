@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pension(Emerytura)", "Pension(Emerytura)\Pension(Emerytura).csproj", "{A58B234E-208C-465B-A1A2-FD8F8C8AFA46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pension2(Emerytura2)", "Pension2(Emerytura2)\Pension2(Emerytura2).csproj", "{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A58B234E-208C-465B-A1A2-FD8F8C8AFA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A58B234E-208C-465B-A1A2-FD8F8C8AFA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A58B234E-208C-465B-A1A2-FD8F8C8AFA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
