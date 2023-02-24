@@ -1,4 +1,4 @@
-﻿
+﻿//Linq on ex:https://e.wsei.edu.pl/mod/quiz/attempt.php?attempt=95558&cmid=19205&scrollpos=1272.727294921875
 
 
 
