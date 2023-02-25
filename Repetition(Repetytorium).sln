@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pension(Emerytura)", "Pension(Emerytura)\Pension(Emerytura).csproj", "{A58B234E-208C-465B-A1A2-FD8F8C8AFA46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pension(Emerytura)", "Pension(Emerytura)\Pension(Emerytura).csproj", "{A58B234E-208C-465B-A1A2-FD8F8C8AFA46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pension2(Emerytura2)", "Pension2(Emerytura2)\Pension2(Emerytura2).csproj", "{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pension2(Emerytura2)", "Pension2(Emerytura2)\Pension2(Emerytura2).csproj", "{C3F6AD5F-576D-40EC-842F-EC4CE2F2BC70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pension3(Emerytura3)", "Pension3(Emerytura3)\Pension3(Emerytura3).csproj", "{B6C07A0E-25F6-49E9-BA2B-F356D0198DA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pension3(Emerytura3)", "Pension3(Emerytura3)\Pension3(Emerytura3).csproj", "{B6C07A0E-25F6-49E9-BA2B-F356D0198DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle parameters (Parametry trójkąta)", "Triangle parameters (Parametry trójkąta)\Triangle parameters (Parametry trójkąta).csproj", "{BCFE2AD8-4308-4B51-836D-0D6395485510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle parameters (Parametry trójkąta)", "Triangle parameters (Parametry trójkąta)\Triangle parameters (Parametry trójkąta).csproj", "{BCFE2AD8-4308-4B51-836D-0D6395485510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratic equation (Równanie kwadratowe)", "Quadratic equation (Równanie kwadratowe)\Quadratic equation (Równanie kwadratowe).csproj", "{25A38A6C-973A-465E-A84C-2F9CAF96A7E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BCFE2AD8-4308-4B51-836D-0D6395485510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCFE2AD8-4308-4B51-836D-0D6395485510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCFE2AD8-4308-4B51-836D-0D6395485510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A38A6C-973A-465E-A84C-2F9CAF96A7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A38A6C-973A-465E-A84C-2F9CAF96A7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A38A6C-973A-465E-A84C-2F9CAF96A7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A38A6C-973A-465E-A84C-2F9CAF96A7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

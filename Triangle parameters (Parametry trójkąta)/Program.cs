@@ -22,7 +22,7 @@ else
 
     /***************************************/
 
-    double P = (a + b + c) / 2; //%
+    double P = (a + b + c) / 2; //You can use symbol precent (%), too correct
 
     double pole = Math.Sqrt(P * (P - a) * (P - b) * (P - c)); //Pole - Площина/Поле  //Math.Sqrt(...); - Корінь
     Console.WriteLine("pole = {0:N2}", pole);
